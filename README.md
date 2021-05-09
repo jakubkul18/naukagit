@@ -13,3 +13,5 @@ powinnismy konczyc
 
 
 i jedziemy z ostatnim commitem 4
+
+kolejny commit.
