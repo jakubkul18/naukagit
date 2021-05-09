@@ -8,3 +8,4 @@ bla bla
 
 powinnismy konczyc
  no to dodajmy drugi
+ ### trzeci commit
