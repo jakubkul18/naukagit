@@ -9,3 +9,7 @@ bla bla
 powinnismy konczyc
  no to dodajmy drugi
  ### trzeci commit
+
+
+
+i jedziemy z ostatnim commitem 4
